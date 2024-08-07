@@ -1,7 +1,5 @@
 import time
 
-# API KEY = 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
-
 from discord.ext import commands
 import discord
 import DungeonMaster as DM
